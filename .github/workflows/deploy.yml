@@ -28,7 +28,11 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm ci
+        # `npm install` (not `npm ci`) on purpose: the dependency tree contains
+        # platform-specific optional packages (sharp -> @img/sharp-* -> @emnapi/*)
+        # whose wasm32 branch npm can never materialise in a lockfile generated on
+        # another OS. Installing on the runner resolves the branch for that OS.
+        run: npm install --no-audit --no-fund
 
       - name: Build static site
         run: npm run build

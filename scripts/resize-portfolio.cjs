@@ -39,7 +39,13 @@ const WORKS = [
 ];
 
 async function main() {
-  const sharp = require('sharp');
+  let sharp;
+  try {
+    sharp = require('sharp');
+  } catch (e) {
+    console.error('sharp is not installed. Run: npm install --save-dev sharp');
+    process.exit(1);
+  }
 
   fs.mkdirSync(OUT_DIR, { recursive: true });
 

@@ -20,7 +20,8 @@ jobs:
           node-version: 20
           cache: npm
       - name: Install dependencies
-        run: npm ci
+        # See deploy.yml for why this is `npm install` rather than `npm ci`.
+        run: npm install --no-audit --no-fund
       - name: Validate content
         run: npm run validate:content
       - name: Type check
