@@ -1,0 +1,16 @@
+{
+  "name": "KEYI · A Industrial Designer",
+  "short_name": "KEYI",
+  "description": "Visual direction, still life, editorial & campaign — KEYI portfolio.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./favicon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any" },
+    { "src": "./favicon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "maskable" }
+  ]
+}

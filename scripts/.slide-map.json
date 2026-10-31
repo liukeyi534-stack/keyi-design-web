@@ -1,0 +1,338 @@
+[
+  {
+    "slug": "companion",
+    "titleZh": "伴侣",
+    "titleEn": "COMPANION",
+    "category": "Lifestyle direction",
+    "shell": "amber",
+    "palette": [
+      "#f0d4a8",
+      "#c08a5a",
+      "#4a2a18"
+    ],
+    "edge": "#c08a5a",
+    "spine": "#4a2a18",
+    "tone": "ivory",
+    "hardware": "silver"
+  },
+  {
+    "slug": "coast-notes",
+    "titleZh": "岸记",
+    "titleEn": "COAST NOTES",
+    "category": "Beauty still life",
+    "shell": "paleIce",
+    "palette": [
+      "#c2d8e8",
+      "#6a8a9a",
+      "#2a3848"
+    ],
+    "edge": "#6a8a9a",
+    "spine": "#2a3848",
+    "tone": "ivory",
+    "hardware": "silver"
+  },
+  {
+    "slug": "drive-sunset",
+    "titleZh": "驶暮",
+    "titleEn": "DRIVE SUNSET",
+    "category": "Lifestyle direction",
+    "shell": "amber",
+    "palette": [
+      "#f0c89a",
+      "#a85a28",
+      "#2a1408"
+    ],
+    "edge": "#a85a28",
+    "spine": "#2a1408",
+    "tone": "ivory",
+    "hardware": "silver"
+  },
+  {
+    "slug": "head-clouds",
+    "titleZh": "云首",
+    "titleEn": "HEAD CLOUDS",
+    "category": "Fashion direction",
+    "shell": "milky",
+    "palette": [
+      "#f0e8d8",
+      "#a08770",
+      "#3a2e22"
+    ],
+    "edge": "#a08770",
+    "spine": "#3a2e22",
+    "tone": "ivory",
+    "hardware": "silver"
+  },
+  {
+    "slug": "gourd-light",
+    "titleZh": "葫光",
+    "titleEn": "GOURD LIGHT",
+    "category": "Still life",
+    "shell": "amber",
+    "palette": [
+      "#f1deba",
+      "#a87a3a",
+      "#2a1c10"
+    ],
+    "edge": "#a87a3a",
+    "spine": "#2a1c10",
+    "tone": "ivory",
+    "hardware": "silver"
+  },
+  {
+    "slug": "lotus-quiet",
+    "titleZh": "莲寂",
+    "titleEn": "LOTUS QUIET",
+    "category": "Still life",
+    "shell": "frosted",
+    "palette": [
+      "#d8b8c4",
+      "#7a3a4e",
+      "#1e1418"
+    ],
+    "edge": "#7a3a4e",
+    "spine": "#1e1418",
+    "tone": "ivory",
+    "hardware": "silver"
+  },
+  {
+    "slug": "bamboo-glass",
+    "titleZh": "竹器",
+    "titleEn": "BAMBOO GLASS",
+    "category": "Tabletop still life",
+    "shell": "smoked",
+    "palette": [
+      "#c8b88a",
+      "#4a6248",
+      "#1e2418"
+    ],
+    "edge": "#4a6248",
+    "spine": "#1e2418",
+    "tone": "graphite",
+    "hardware": "gunmetal"
+  },
+  {
+    "slug": "color-pencil",
+    "titleZh": "彩笔",
+    "titleEn": "COLOR PENCIL",
+    "category": "Beauty campaign",
+    "shell": "ice",
+    "palette": [
+      "#d8d5e0",
+      "#3858c0",
+      "#0a1850"
+    ],
+    "edge": "#3858c0",
+    "spine": "#0a1850",
+    "tone": "clear",
+    "hardware": "silver"
+  },
+  {
+    "slug": "tea-ritual",
+    "titleZh": "茶事",
+    "titleEn": "TEA RITUAL",
+    "category": "Tabletop still life",
+    "shell": "smoked",
+    "palette": [
+      "#c8a888",
+      "#7a4a2c",
+      "#28160e"
+    ],
+    "edge": "#7a4a2c",
+    "spine": "#28160e",
+    "tone": "graphite",
+    "hardware": "gunmetal"
+  },
+  {
+    "slug": "wet-street",
+    "titleZh": "雨行",
+    "titleEn": "WET STREET",
+    "category": "Street composition",
+    "shell": "paleIce",
+    "palette": [
+      "#c9d4dc",
+      "#4a6878",
+      "#1e2a32"
+    ],
+    "edge": "#4a6878",
+    "spine": "#1e2a32",
+    "tone": "graphite",
+    "hardware": "gunmetal"
+  },
+  {
+    "slug": "orange-study",
+    "titleZh": "橙研",
+    "titleEn": "ORANGE STUDY",
+    "category": "Product still life",
+    "shell": "amber",
+    "palette": [
+      "#f8e4c0",
+      "#d08335",
+      "#5e2812"
+    ],
+    "edge": "#d08335",
+    "spine": "#5e2812",
+    "tone": "ivory",
+    "hardware": "silver"
+  },
+  {
+    "slug": "warm-gift",
+    "titleZh": "暖礼",
+    "titleEn": "WARM GIFT",
+    "category": "Lifestyle direction",
+    "shell": "amber",
+    "palette": [
+      "#f5d6b3",
+      "#c4633a",
+      "#4a2218"
+    ],
+    "edge": "#c4633a",
+    "spine": "#4a2218",
+    "tone": "ivory",
+    "hardware": "silver"
+  },
+  {
+    "slug": "fruit-shape",
+    "titleZh": "果形",
+    "titleEn": "FRUIT SHAPE",
+    "category": "Product design",
+    "shell": "amber",
+    "palette": [
+      "#f4e8c0",
+      "#d8a050",
+      "#a83a18"
+    ],
+    "edge": "#d8a050",
+    "spine": "#a83a18",
+    "tone": "ivory",
+    "hardware": "silver"
+  },
+  {
+    "slug": "cat-festive",
+    "titleZh": "猫节",
+    "titleEn": "CAT FESTIVE",
+    "category": "Product direction",
+    "shell": "amber",
+    "palette": [
+      "#e8c47a",
+      "#c25a1c",
+      "#2a1810"
+    ],
+    "edge": "#c25a1c",
+    "spine": "#2a1810",
+    "tone": "ivory",
+    "hardware": "silver"
+  },
+  {
+    "slug": "peach-tea",
+    "titleZh": "桃壶",
+    "titleEn": "PEACH TEA",
+    "category": "Tabletop still life",
+    "shell": "smoked",
+    "palette": [
+      "#f0d8c8",
+      "#d09a8a",
+      "#5a3a28"
+    ],
+    "edge": "#d09a8a",
+    "spine": "#5a3a28",
+    "tone": "graphite",
+    "hardware": "gunmetal"
+  },
+  {
+    "slug": "reading-pod",
+    "titleZh": "阅读舱",
+    "titleEn": "READING POD",
+    "category": "Spatial design",
+    "shell": "paleIce",
+    "palette": [
+      "#a8c8c8",
+      "#2a6a78",
+      "#14242c"
+    ],
+    "edge": "#2a6a78",
+    "spine": "#14242c",
+    "tone": "graphite",
+    "hardware": "gunmetal"
+  },
+  {
+    "slug": "dog-toy",
+    "titleZh": "棘宠",
+    "titleEn": "DOG TOY",
+    "category": "Product direction",
+    "shell": "amber",
+    "palette": [
+      "#f0e0a0",
+      "#a8c020",
+      "#6a4818"
+    ],
+    "edge": "#a8c020",
+    "spine": "#6a4818",
+    "tone": "ivory",
+    "hardware": "silver"
+  },
+  {
+    "slug": "mobility-cart",
+    "titleZh": "慢行",
+    "titleEn": "MOBILITY",
+    "category": "Industrial design",
+    "shell": "milky",
+    "palette": [
+      "#e8e4e0",
+      "#6a6a6a",
+      "#1e1e1e"
+    ],
+    "edge": "#6a6a6a",
+    "spine": "#1e1e1e",
+    "tone": "clear",
+    "hardware": "silver"
+  },
+  {
+    "slug": "temple-autumn",
+    "titleZh": "刹秋",
+    "titleEn": "TEMPLE AUTUMN",
+    "category": "Spatial direction",
+    "shell": "amber",
+    "palette": [
+      "#f3c87a",
+      "#c25a1c",
+      "#2a1810"
+    ],
+    "edge": "#c25a1c",
+    "spine": "#2a1810",
+    "tone": "ivory",
+    "hardware": "silver"
+  },
+  {
+    "slug": "study-companion",
+    "titleZh": "学伴",
+    "titleEn": "STUDY COMPANION",
+    "category": "Product direction",
+    "shell": "milky",
+    "palette": [
+      "#f0e0c8",
+      "#5a6a78",
+      "#142028"
+    ],
+    "edge": "#5a6a78",
+    "spine": "#142028",
+    "tone": "ivory",
+    "hardware": "silver"
+  },
+  {
+    "slug": "shark-pump",
+    "titleZh": "鲨泵",
+    "titleEn": "SHARK PUMP",
+    "category": "Product campaign",
+    "shell": "ice",
+    "palette": [
+      "#b0b8c8",
+      "#1a3868",
+      "#08102a"
+    ],
+    "edge": "#1a3868",
+    "spine": "#08102a",
+    "tone": "clear",
+    "hardware": "silver"
+  }
+]

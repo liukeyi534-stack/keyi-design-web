@@ -1,0 +1,22 @@
+.next/
+.next-dev/
+.next-stale-*/
+out/
+node_modules/
+.lowkey-runtime/
+.codex-runtime/
+.vercel/
+.env*
+!.env.example
+*.tsbuildinfo
+backups/
+studio-backups/
+tmp/
+design-references/
+.edgeone/
+.tef_dist/
+.DS_Store
+Thumbs.db
+
+# Local-only backup of the previous unit-collection assets (not referenced by code).
+public/archive/works/_units/

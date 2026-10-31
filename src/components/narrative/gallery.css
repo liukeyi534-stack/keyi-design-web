@@ -1,0 +1,2 @@
+.lowkey-gallery { --pswp-bg: #141615; --pswp-icon-color: #eeece6; }
+.lowkey-gallery .pswp__artwork-title { position: absolute; bottom: 22px; left: 24px; right: 24px; text-align: center; color: #eeece6; font: 14px/1.6 var(--cjk-sans); pointer-events: none; }

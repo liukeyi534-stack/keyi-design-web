@@ -1,0 +1,71 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 253, 250, 0.96);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  font-family: var(--cjk-sans, system-ui, sans-serif);
+  color: #1f1a15;
+  animation: fadeIn 220ms ease-out;
+}
+
+.card {
+  width: min(82vw, 360px);
+  padding: 28px 24px;
+  text-align: center;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.55);
+  border: 1px solid rgba(31, 26, 21, 0.08);
+  box-shadow: 0 12px 40px rgba(31, 26, 21, 0.08);
+}
+
+.icon {
+  width: 56px;
+  height: 56px;
+  margin: 0 auto 14px;
+  color: #1f1a15;
+  animation: rotateHint 2.6s ease-in-out infinite;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 500;
+  margin: 0 0 8px;
+  letter-spacing: 0.04em;
+}
+
+.subtitle {
+  font-size: 14px;
+  line-height: 1.7;
+  margin: 0 0 4px;
+  color: #3a352e;
+}
+
+.subtitleEn {
+  font-size: 11px;
+  line-height: 1.6;
+  color: #807a72;
+  margin: 0 0 16px;
+  letter-spacing: 0.02em;
+}
+
+.hint {
+  font-size: 11px;
+  color: #807a72;
+  margin: 0;
+  letter-spacing: 0.04em;
+}
+
+@keyframes rotateHint {
+  0%, 100% { transform: rotate(0deg); }
+  50% { transform: rotate(90deg); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}

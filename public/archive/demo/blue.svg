@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Blue passage</title><desc id="desc">A blue lake between quiet hills.</desc>
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#2b6ab2"/><stop offset=".62" stop-color="#15365f"/><stop offset="1" stop-color="#0c2037"/></linearGradient></defs>
+  <rect width="720" height="1080" fill="url(#sky)"/><path d="M0 488L190 272 343 438 510 232 720 470V700H0Z" fill="#173e58"/><path d="M0 592c170-54 325-42 720 12V1080H0Z" fill="#0d4b78"/><path d="M0 708c210-30 470 40 720-8" stroke="#64a6be" stroke-width="10" opacity=".45" fill="none"/><path d="M280 840h142" stroke="#b6e1e4" stroke-width="7" opacity=".8"/><circle cx="360" cy="835" r="14" fill="#e6d598"/></svg>

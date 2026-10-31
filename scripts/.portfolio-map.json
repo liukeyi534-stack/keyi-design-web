@@ -1,0 +1,550 @@
+[
+  {
+    "slug": "cider-hello-kitty",
+    "coverIndex": 1,
+    "year": 2024,
+    "category": "Fashion collaboration",
+    "medium": "Co-branded apparel campaign",
+    "shell": "dichroic",
+    "palette": [
+      "#f6c8d8",
+      "#e96a8a",
+      "#5a1428"
+    ],
+    "edge": "#e96a8a",
+    "spine": "#5a1428",
+    "tone": "ivory",
+    "hardware": "silver",
+    "titleZh": "CIDER × Hello Kitty 联名",
+    "titleEn": "CIDER × Hello Kitty",
+    "subtitleZh": "FROM THE HEART 出自内心",
+    "subtitleEn": "A fall co-branded apparel capsule",
+    "files": [
+      "cider-hello-kitty-01.jpg",
+      "cider-hello-kitty-02.jpg",
+      "cider-hello-kitty-03.jpg",
+      "cider-hello-kitty-04.jpg",
+      "cider-hello-kitty-05.jpg",
+      "cider-hello-kitty-06.jpg",
+      "cider-hello-kitty-07.jpg",
+      "cider-hello-kitty-08.jpg"
+    ]
+  },
+  {
+    "slug": "city-vinewalk",
+    "coverIndex": 1,
+    "year": 2024,
+    "category": "Service design",
+    "medium": "Planting design for smart aging",
+    "shell": "paleIce",
+    "palette": [
+      "#dbe5c8",
+      "#6a8a48",
+      "#1e2a14"
+    ],
+    "edge": "#6a8a48",
+    "spine": "#1e2a14",
+    "tone": "ivory",
+    "hardware": "silver",
+    "titleZh": "城市\"蔓\"步",
+    "titleEn": "City VineWalk",
+    "subtitleZh": "智慧养老的种植设计",
+    "subtitleEn": "Planting design for smart aging",
+    "files": [
+      "city-vinewalk-01.jpg",
+      "city-vinewalk-02.jpg",
+      "city-vinewalk-03.jpg"
+    ]
+  },
+  {
+    "slug": "emosphere",
+    "coverIndex": 1,
+    "year": 2025,
+    "category": "Spatial design",
+    "medium": "Modular workplace system",
+    "shell": "frosted",
+    "palette": [
+      "#e2d8c8",
+      "#8a6a48",
+      "#2a1c12"
+    ],
+    "edge": "#8a6a48",
+    "spine": "#2a1c12",
+    "tone": "ivory",
+    "hardware": "silver",
+    "titleZh": "Emosphere",
+    "titleEn": "Emosphere",
+    "subtitleZh": "基于情感三层次理论的模块化职场空间设计",
+    "subtitleEn": "A modular workplace based on emotional three-layer theory",
+    "files": [
+      "emosphere-01.jpg",
+      "emosphere-02.jpg",
+      "emosphere-03.jpg",
+      "emosphere-04.jpg"
+    ]
+  },
+  {
+    "slug": "hearloom",
+    "coverIndex": 1,
+    "year": 2025,
+    "category": "Service & product system",
+    "medium": "Smart aging product service system",
+    "shell": "milky",
+    "palette": [
+      "#f5e8d2",
+      "#a87538",
+      "#3a1f0a"
+    ],
+    "edge": "#a87538",
+    "spine": "#3a1f0a",
+    "tone": "ivory",
+    "hardware": "silver",
+    "titleZh": "Hearloom 听 见",
+    "titleEn": "Hearloom",
+    "subtitleZh": "智慧养老产品服务系统设计",
+    "subtitleEn": "An intelligent voice-loom bridging family memories",
+    "files": [
+      "hearloom-01.jpg",
+      "hearloom-02.jpg",
+      "hearloom-03.jpg",
+      "hearloom-04.jpg",
+      "hearloom-05.jpg",
+      "hearloom-06.jpg",
+      "hearloom-07.jpg",
+      "hearloom-08.jpg",
+      "hearloom-09.jpg",
+      "hearloom-10.jpg"
+    ]
+  },
+  {
+    "slug": "kol-rain",
+    "coverIndex": 1,
+    "year": 2024,
+    "category": "Editorial direction",
+    "medium": "KOL campaign – The Sound of Rain",
+    "shell": "ice",
+    "palette": [
+      "#cad6e2",
+      "#3e6a8a",
+      "#0e2238"
+    ],
+    "edge": "#3e6a8a",
+    "spine": "#0e2238",
+    "tone": "graphite",
+    "hardware": "silver",
+    "titleZh": "听下雨的声音",
+    "titleEn": "The Sound of Rain",
+    "subtitleZh": "KOL 运营项目",
+    "subtitleEn": "A KOL social-content direction",
+    "files": [
+      "kol-rain-01.jpg",
+      "kol-rain-02.jpg",
+      "kol-rain-03.jpg",
+      "kol-rain-04.jpg"
+    ]
+  },
+  {
+    "slug": "lvmh-mu",
+    "coverIndex": 1,
+    "year": 2024,
+    "category": "Beauty campaign",
+    "medium": "Co-branded cosmetic campaign",
+    "shell": "amber",
+    "palette": [
+      "#f5d2c2",
+      "#c25a4e",
+      "#3a0c0a"
+    ],
+    "edge": "#c25a4e",
+    "spine": "#3a0c0a",
+    "tone": "ivory",
+    "hardware": "gold",
+    "titleZh": "LVMH × MAKE UP FOR EVER",
+    "titleEn": "LVMH × MAKE UP FOR EVER",
+    "subtitleZh": "美妆广告视觉",
+    "subtitleEn": "A co-branded beauty visual",
+    "files": [
+      "lvmh-mu-01.jpg",
+      "lvmh-mu-02.jpg",
+      "lvmh-mu-03.jpg"
+    ]
+  },
+  {
+    "slug": "nike-converse",
+    "coverIndex": 1,
+    "year": 2024,
+    "category": "Footwear campaign",
+    "medium": "Sneaker collaboration visual",
+    "shell": "clear",
+    "palette": [
+      "#e8e4d8",
+      "#3a3a3a",
+      "#080808"
+    ],
+    "edge": "#3a3a3a",
+    "spine": "#080808",
+    "tone": "graphite",
+    "hardware": "silver",
+    "titleZh": "履 路",
+    "titleEn": "NIKE × CONVERSE CHUNK 70",
+    "subtitleZh": "NIKE × CONVERSE CHUNK 70",
+    "subtitleEn": "A footwear collaboration visual",
+    "files": [
+      "nike-converse-01.jpg",
+      "nike-converse-02.jpg",
+      "nike-converse-03.jpg",
+      "nike-converse-04.jpg",
+      "nike-converse-05.jpg",
+      "nike-converse-06.jpg",
+      "nike-converse-07.jpg",
+      "nike-converse-08.jpg"
+    ]
+  },
+  {
+    "slug": "ripple-vase",
+    "coverIndex": 1,
+    "year": 2025,
+    "category": "Cultural creation",
+    "medium": "Dabao'en Temple souvenir design",
+    "shell": "amber",
+    "palette": [
+      "#f0d4a2",
+      "#a8642a",
+      "#2e1408"
+    ],
+    "edge": "#a8642a",
+    "spine": "#2e1408",
+    "tone": "ivory",
+    "hardware": "silver",
+    "titleZh": "龙 旋",
+    "titleEn": "Ripple Vase",
+    "subtitleZh": "大报恩寺文创",
+    "subtitleEn": "A Dabao'en Temple souvenir",
+    "files": [
+      "ripple-vase-01.jpg",
+      "ripple-vase-02.jpg",
+      "ripple-vase-03.jpg",
+      "ripple-vase-04.jpg",
+      "ripple-vase-05.jpg",
+      "ripple-vase-06.jpg",
+      "ripple-vase-07.jpg"
+    ]
+  },
+  {
+    "slug": "star-chasing",
+    "coverIndex": 1,
+    "year": 2025,
+    "category": "Toy & educational design",
+    "medium": "Five-sense toy for autistic kids",
+    "shell": "dichroic",
+    "palette": [
+      "#cad4e2",
+      "#5a6a8a",
+      "#0e1830"
+    ],
+    "edge": "#5a6a8a",
+    "spine": "#0e1830",
+    "tone": "graphite",
+    "hardware": "silver",
+    "titleZh": "星 祺",
+    "titleEn": "Star Chasing",
+    "subtitleZh": "基于五感的自闭症儿童玩具设计",
+    "subtitleEn": "A five-sense toy for autistic children",
+    "files": [
+      "star-chasing-01.jpg",
+      "star-chasing-02.jpg",
+      "star-chasing-03.jpg",
+      "star-chasing-04.jpg",
+      "star-chasing-05.jpg"
+    ]
+  },
+  {
+    "slug": "your-puppy",
+    "coverIndex": 1,
+    "year": 2024,
+    "category": "Pet product design",
+    "medium": "Award-winning puppy toy set",
+    "shell": "amber",
+    "palette": [
+      "#f6dcac",
+      "#d28238",
+      "#5a2c14"
+    ],
+    "edge": "#d28238",
+    "spine": "#5a2c14",
+    "tone": "ivory",
+    "hardware": "silver",
+    "titleZh": "你的小狗",
+    "titleEn": "Your Puppy",
+    "subtitleZh": "上海凡爱宠物用品合作",
+    "subtitleEn": "NCDA & Oriental Design Award winner",
+    "files": [
+      "your-puppy-01.jpg",
+      "your-puppy-02.jpg",
+      "your-puppy-03.jpg",
+      "your-puppy-04.jpg",
+      "your-puppy-05.jpg"
+    ]
+  },
+  {
+    "slug": "one-flower",
+    "coverIndex": 1,
+    "year": 2025,
+    "category": "Cultural creation",
+    "medium": "Dabao'en Temple souvenir",
+    "shell": "smoked",
+    "palette": [
+      "#dcc4a8",
+      "#7a4a28",
+      "#1e1208"
+    ],
+    "edge": "#7a4a28",
+    "spine": "#1e1208",
+    "tone": "graphite",
+    "hardware": "gunmetal",
+    "titleZh": "一花一世界",
+    "titleEn": "One Flower, One World",
+    "subtitleZh": "大报恩寺文创",
+    "subtitleEn": "A Dabao'en Temple souvenir",
+    "files": [
+      "one-flower-01.jpg",
+      "one-flower-02.jpg",
+      "one-flower-03.jpg",
+      "one-flower-04.jpg",
+      "one-flower-05.jpg",
+      "one-flower-06.jpg",
+      "one-flower-07.jpg"
+    ]
+  },
+  {
+    "slug": "cactus-bite",
+    "coverIndex": 1,
+    "year": 2024,
+    "category": "Pet product design",
+    "medium": "Cactus chew toy set",
+    "shell": "paleIce",
+    "palette": [
+      "#d8e8c8",
+      "#5a8a3c",
+      "#143210"
+    ],
+    "edge": "#5a8a3c",
+    "spine": "#143210",
+    "tone": "ivory",
+    "hardware": "silver",
+    "titleZh": "仙人掌啃咬套装",
+    "titleEn": "Cactus Bite Set",
+    "subtitleZh": "上海凡爱宠物用品合作",
+    "subtitleEn": "A cactus-shaped pet chew toy",
+    "files": [
+      "cactus-bite-01.jpg",
+      "cactus-bite-02.jpg",
+      "cactus-bite-03.jpg",
+      "cactus-bite-04.jpg",
+      "cactus-bite-05.jpg",
+      "cactus-bite-06.jpg"
+    ]
+  },
+  {
+    "slug": "millennia-cup",
+    "coverIndex": 1,
+    "year": 2025,
+    "category": "Cultural creation",
+    "medium": "Dabao'en Temple quick-cup",
+    "shell": "amber",
+    "palette": [
+      "#f0d2a2",
+      "#a86a28",
+      "#2e1408"
+    ],
+    "edge": "#a86a28",
+    "spine": "#2e1408",
+    "tone": "ivory",
+    "hardware": "silver",
+    "titleZh": "千年对望快客杯",
+    "titleEn": "Millennia Gaze Quick Cup",
+    "subtitleZh": "大报恩寺文创",
+    "subtitleEn": "A Dabao'en Temple quick-cup",
+    "files": [
+      "millennia-cup-01.jpg",
+      "millennia-cup-02.jpg",
+      "millennia-cup-03.jpg",
+      "millennia-cup-04.jpg",
+      "millennia-cup-05.jpg",
+      "millennia-cup-06.jpg"
+    ]
+  },
+  {
+    "slug": "paulownia-roots",
+    "coverIndex": 1,
+    "year": 2024,
+    "category": "Cultural creation",
+    "medium": "National Oriental Design Award",
+    "shell": "amber",
+    "palette": [
+      "#f5e0bc",
+      "#a87a32",
+      "#2e1a08"
+    ],
+    "edge": "#a87a32",
+    "spine": "#2e1a08",
+    "tone": "ivory",
+    "hardware": "silver",
+    "titleZh": "桐心同源",
+    "titleEn": "Paulownia Roots",
+    "subtitleZh": "东方设计奖国家级获奖作品",
+    "subtitleEn": "National Oriental Design Award",
+    "files": [
+      "paulownia-roots-01.jpg",
+      "paulownia-roots-02.jpg",
+      "paulownia-roots-03.jpg",
+      "paulownia-roots-04.jpg"
+    ]
+  },
+  {
+    "slug": "fruit-set",
+    "coverIndex": 1,
+    "year": 2024,
+    "category": "Pet product design",
+    "medium": "Fruit-shape pet toy set",
+    "shell": "amber",
+    "palette": [
+      "#f6e4b4",
+      "#d68a3a",
+      "#5a2010"
+    ],
+    "edge": "#d68a3a",
+    "spine": "#5a2010",
+    "tone": "ivory",
+    "hardware": "silver",
+    "titleZh": "水果系列",
+    "titleEn": "Fruit Pet Toy Set",
+    "subtitleZh": "上海凡爱宠物用品合作",
+    "subtitleEn": "A fruit-shape pet toy series",
+    "files": [
+      "fruit-set-01.jpg",
+      "fruit-set-02.jpg",
+      "fruit-set-03.jpg",
+      "fruit-set-04.jpg",
+      "fruit-set-05.jpg"
+    ]
+  },
+  {
+    "slug": "lantern-cat-toy",
+    "coverIndex": 1,
+    "year": 2024,
+    "category": "Pet product design",
+    "medium": "Lantern cat toy set",
+    "shell": "amber",
+    "palette": [
+      "#f6d6a8",
+      "#e8663c",
+      "#5a1410"
+    ],
+    "edge": "#e8663c",
+    "spine": "#5a1410",
+    "tone": "ivory",
+    "hardware": "silver",
+    "titleZh": "灯笼猫玩具套装",
+    "titleEn": "Lantern Cat Toy Set",
+    "subtitleZh": "上海凡爱宠物用品合作",
+    "subtitleEn": "NCDA & Oriental Design Award winner",
+    "files": [
+      "lantern-cat-toy-01.jpg",
+      "lantern-cat-toy-02.jpg",
+      "lantern-cat-toy-03.jpg",
+      "lantern-cat-toy-04.jpg"
+    ]
+  },
+  {
+    "slug": "liuli-scent",
+    "coverIndex": 1,
+    "year": 2025,
+    "category": "Cultural creation",
+    "medium": "Dabao'en Temple fragrance set",
+    "shell": "frosted",
+    "palette": [
+      "#dde6e8",
+      "#5a8aa8",
+      "#0e2638"
+    ],
+    "edge": "#5a8aa8",
+    "spine": "#0e2638",
+    "tone": "graphite",
+    "hardware": "silver",
+    "titleZh": "琉璃香",
+    "titleEn": "Liuli Scent Set",
+    "subtitleZh": "大报恩寺文创",
+    "subtitleEn": "A Dabao'en Temple fragrance series",
+    "files": [
+      "liuli-scent-01.jpg",
+      "liuli-scent-02.jpg",
+      "liuli-scent-03.jpg",
+      "liuli-scent-04.jpg",
+      "liuli-scent-05.jpg",
+      "liuli-scent-06.jpg",
+      "liuli-scent-07.jpg"
+    ]
+  },
+  {
+    "slug": "campus-recycle",
+    "coverIndex": 1,
+    "year": 2025,
+    "category": "Service design",
+    "medium": "Campus recycling service",
+    "shell": "paleIce",
+    "palette": [
+      "#cfe8d4",
+      "#3c8a5a",
+      "#0e2e1e"
+    ],
+    "edge": "#3c8a5a",
+    "spine": "#0e2e1e",
+    "tone": "ivory",
+    "hardware": "silver",
+    "titleZh": "青葱校园",
+    "titleEn": "Green Campus",
+    "subtitleZh": "校园垃圾回收服务设计",
+    "subtitleEn": "A campus recycling service system",
+    "files": [
+      "campus-recycle-01.jpg",
+      "campus-recycle-02.jpg",
+      "campus-recycle-03.jpg",
+      "campus-recycle-04.jpg",
+      "campus-recycle-05.jpg",
+      "campus-recycle-06.jpg",
+      "campus-recycle-07.jpg",
+      "campus-recycle-08.jpg"
+    ]
+  },
+  {
+    "slug": "leaf-bodhi",
+    "coverIndex": 1,
+    "year": 2025,
+    "category": "Cultural creation",
+    "medium": "Dabao'en Temple scented candle",
+    "shell": "amber",
+    "palette": [
+      "#e8c890",
+      "#9c6020",
+      "#281408"
+    ],
+    "edge": "#9c6020",
+    "spine": "#281408",
+    "tone": "graphite",
+    "hardware": "gunmetal",
+    "titleZh": "一叶一菩提",
+    "titleEn": "One Leaf, One Bodhi",
+    "subtitleZh": "香薰蜡烛·大报恩寺文创",
+    "subtitleEn": "A Dabao'en Temple scented candle",
+    "files": [
+      "leaf-bodhi-01.jpg",
+      "leaf-bodhi-02.jpg",
+      "leaf-bodhi-03.jpg",
+      "leaf-bodhi-04.jpg",
+      "leaf-bodhi-05.jpg",
+      "leaf-bodhi-06.jpg",
+      "leaf-bodhi-07.jpg"
+    ]
+  }
+]

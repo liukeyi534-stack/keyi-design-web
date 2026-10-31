@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Green horizon</title><desc id="desc">Layered green hills under a pale sky.</desc>
+  <defs><linearGradient id="g" y2="1"><stop stop-color="#cbdccc"/><stop offset=".42" stop-color="#79a886"/><stop offset="1" stop-color="#193b31"/></linearGradient></defs>
+  <rect width="720" height="1080" fill="url(#g)"/><path d="M0 530L230 300l180 200 150-130 160 140v570H0Z" fill="#315d48" opacity=".9"/><path d="M0 720c180-88 380-74 720-22v382H0Z" fill="#17372f"/><path d="M120 846h480" stroke="#b9d4ac" stroke-width="4" opacity=".7"/><circle cx="540" cy="820" r="13" fill="#e6c36c"/></svg>

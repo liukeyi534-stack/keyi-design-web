@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Blue bridge</title><desc id="desc">A narrow bridge across a deep blue field.</desc>
+  <defs><linearGradient id="g" y2="1"><stop stop-color="#94c4dc"/><stop offset=".4" stop-color="#1e5887"/><stop offset="1" stop-color="#071d3b"/></linearGradient></defs>
+  <rect width="720" height="1080" fill="url(#g)"/><path d="M0 770L720 542v88L0 880Z" fill="#dbc58b"/><path d="M0 900l720-250v86L0 1000Z" fill="#0c335a"/><path d="M120 820L590 668" stroke="#f5e6b8" stroke-width="8"/><circle cx="400" cy="738" r="16" fill="#d76446"/></svg>

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Amber field</title><desc id="desc">An abstract amber field with a quiet figure.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0.8" y2="1"><stop stop-color="#f7b05a"/><stop offset=".58" stop-color="#d6652e"/><stop offset="1" stop-color="#74352e"/></linearGradient></defs>
+  <rect width="720" height="1080" fill="url(#g)"/><circle cx="160" cy="190" r="90" fill="#f9d59a" opacity=".22"/><path d="M0 770C180 700 360 830 720 690V1080H0Z" fill="#8d3d30" opacity=".3"/><path d="M412 444c-22 36-20 84-34 132-8 32-32 52-28 87 12 22 39 23 56 4 23-24 31-64 30-102-1-46 9-78-24-121Z" fill="#322225"/><circle cx="410" cy="412" r="22" fill="#322225"/><path d="M270 935h190" stroke="#f6dca8" stroke-width="3" opacity=".6"/></svg>
