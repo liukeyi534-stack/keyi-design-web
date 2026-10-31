@@ -36,6 +36,9 @@
   "overrides": {
     "js-yaml": "4.3.2",
     "nanoid": "3.3.18",
-    "postcss": "8.5.28"
+    "postcss": "8.5.28",
+    "@emnapi/core": "1.10.0",
+    "@emnapi/runtime": "1.10.0",
+    "@emnapi/wasi-threads": "1.2.3"
   }
 }
