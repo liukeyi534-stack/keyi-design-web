@@ -93,7 +93,14 @@ DNS **必须先指向 GitHub**，GitHub 才能验证并签发证书。正确顺�
 
 ## 日常更新
 
-修改文件后：
+改完文件后，最简单的方式是跑一键脚本（会自动 commit + push）：
+
+```powershell
+cd F:\minimaxcode\个人网站2\lowkey-archive-template-main
+powershell -ExecutionPolicy Bypass -File .\push.ps1
+```
+
+或者手动：
 
 ```powershell
 git add .
@@ -102,6 +109,9 @@ git push
 ```
 
 GitHub Actions 自动重新 build + 部署，1–2 分钟后线上生效。
+
+> ⚠️ **PowerShell 多行粘贴陷阱**：一次性粘贴多行命令会进入 `>>` 续行模式，看起来像"代码乱了"（命令其实还是会跑）。
+> 规避方式：① 一行一行敲；② 用上面的 `push.ps1` 脚本；③ 粘贴后如果看到 `>>`，按 `Ctrl+C` 退出重来。
 
 ---
 
