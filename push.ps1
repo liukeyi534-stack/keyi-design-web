@@ -45,7 +45,6 @@ Write-Host ''
 Write-Host '== 3/3 done ==' -ForegroundColor Green
 Write-Host 'Then send CNAME value  liukeyi534-stack.github.io  to the x8iu.com DNS owner.' -ForegroundColor Green
 Write-Host ''
-Write-Host 'Your site will be at:  https://liukeyi534-stack.github.io/' -ForegroundColor Cyan
-Write-Host 'After DNS is ready:    https://ib.x8iu.com' -ForegroundColor Cyan
+Write-Host 'Your site will be at:  https://ka.x8iu.com' -ForegroundColor Cyan
 
 Read-Host 'Press Enter to close'
